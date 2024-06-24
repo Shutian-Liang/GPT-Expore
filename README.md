@@ -5,9 +5,13 @@
 This is my graduation project finished just in one week. I have investigated the explore-exploit strategy differences between human and large language model(LLM, here I use GPT4o). Experiments are adapted by the Wu et al., 2018. You can find the experiment codes in the `\experiment` folder.
 
 `\analysis`: basic behaviour analysis
+
 `\exp_instructions`: the instructions for the GPT4o
+
 `\experiment`: the experiment codes 
+
 `\model`: the cognitive models and simulation of the analysis
+
 `kernels`: the environment generative kernels of the experiment
 
 #### Materials:
