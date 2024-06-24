@@ -1,0 +1,1 @@
+I used a strategy of exploring boxes around the initially revealed high-value box and continued searching in its vicinity. After uncovering low-value boxes towards the end, I shifted to unexplored boxes closer to the initially revealed high-value box. FINISH

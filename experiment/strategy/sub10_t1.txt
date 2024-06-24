@@ -1,0 +1,3 @@
+The strategy I used to explore was initially selecting adjacent coordinates to the given box in hopes of hitting a cluster of high-value points, considering that high-value points tend to be in the same area. If choosing within proximity still left choices, I also considered revisiting previously revealed boxes for potentially favourable small changes in point values.
+
+FINISH

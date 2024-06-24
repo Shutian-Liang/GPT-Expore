@@ -1,0 +1,3 @@
+The strategy I used to explore was to select boxes sequentially from left to right, starting from the known point and aiming to identify clusters of high-value points near that area, as per the instructions. This approach maximizes the chance of hitting more high-value points based on the given distribution pattern. 
+
+FINISH

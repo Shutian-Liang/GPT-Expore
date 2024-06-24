@@ -1,0 +1,17 @@
+Please answer a few questions about this study before proceeding
+Question1：What is your task in this study?
+1. Gain as many points as possible   
+2. Learn where the largest reward is
+
+Question2：How many environments are there to explore?
+1. 1
+2. 8     
+3.16
+
+Qusetion3: How are the points distributed?
+1.Random   
+2.High-value points are never next to each other  
+3.High-value points tend to be in the same area
+4.High-value points are always in the same area
+
+Just give your answer as the form of (X,Y,Z)(X Y Z is the answer to the questions above)

@@ -1,0 +1,9 @@
+To explore, I used the following strategy: 
+
+1. **Clustering Exploration**: I often selected boxes that were adjacent to previously chosen boxes, based on the idea that high-value points cluster near each other.
+2. **Sequential Movement**: I moved sequentially in one direction once I found a higher value compared to the starting value.
+3. **Exploitation**: In cases where I identified a pattern or cluster of higher value, I continued to explore within that vicinity to maximize points.
+
+Overall, my focus was on maximizing points by recognizing patterns and clusters, and making informed decisions based on previous selections.
+
+FINISH

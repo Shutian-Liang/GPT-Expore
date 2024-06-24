@@ -1,0 +1,1 @@
+I used a strategy of exploring boxes adjacent to known values to find clusters of high-value points. FINISH

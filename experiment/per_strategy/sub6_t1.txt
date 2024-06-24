@@ -1,0 +1,1 @@
+I used a strategy of exploring adjacent boxes to try to identify clusters of high-value points, and then I reselected high-value boxes to maximize the total points accumulated. FINISH.

@@ -1,0 +1,3 @@
+I focused on exploring boxes adjacent to the currently known high-value boxes, assuming that high-value points tend to cluster. This strategy aimed at maximizing the likelihood of finding more high-value points based on the given distribution pattern. I avoided reselecting previously chosen boxes to maximize discoveries across each environment.
+
+FINISH

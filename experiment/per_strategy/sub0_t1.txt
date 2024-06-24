@@ -1,0 +1,3 @@
+I used a strategy of exploring adjacent boxes to the initially revealed box with a non-zero value, assuming that high-value points tend to be in the same area. This method aimed to maximize point accumulation by revealing potentially high-value boxes clustered around the initial high-value box. 
+
+FINISH

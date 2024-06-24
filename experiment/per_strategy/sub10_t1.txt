@@ -1,0 +1,1 @@
+I used a strategy of exploring boxes close to the initial high-value box and adjacent boxes, based on the knowledge that high-value points tend to cluster together. This allowed me to maximize the points within the limited number of trials. FINISH

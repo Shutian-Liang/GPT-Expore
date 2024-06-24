@@ -1,0 +1,9 @@
+In the following study, you will be presented with just an environments to explore, depicted as a row of boxes. By choosing any of the boxes, you will earn points associated with each unique box. For the row of boxes, you will have either 5 or 10 choices, with the number of remaining choices in my prompt. When you run out of choices, you will start a new trial on the next unexplored environment.
+
+Each environment starts with a single box revealed its value. Just give me your choice with the coordinate form of [x](x starts from 0 to 29 and is an integer), and I  will give you corresponding to the number of points you gain. Previously chosed boxes can also be reselected, although there may be small changes in the point value.
+
+It is your task to gain as many points as possible in the environments. 
+
+Important! Points are clustered along the row of boxes, such that boxes with high-value points tend to appear close to each other and boxes with low-value points tend to appear close to each other. All payoffs are greater than zero, with the maximum payoff differing between environments.
+
+Below, we show some examples of what the distribution of points are like. Say OK to see the examples.

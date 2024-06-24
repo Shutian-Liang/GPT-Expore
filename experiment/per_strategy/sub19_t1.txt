@@ -1,0 +1,1 @@
+I used a strategy of exploring the boxes next to the initial high-value box ([25]), moving both to the left and right to find clustered high-value points based on the provided hint that high-value points tend to be in the same area. FINISH

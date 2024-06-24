@@ -1,0 +1,3 @@
+In each environment, my strategy was to start by exploring neighboring coordinates of the initial high-value box to see if the trend of clustered high-value boxes continued. When I encountered lower values, I shifted my focus to different directions or continued exploring neighboring boxes around the initial high-value area. This approach was based on the principle that high-value points tend to be in the same area.
+
+FINISH

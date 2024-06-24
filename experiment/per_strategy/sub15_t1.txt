@@ -1,0 +1,3 @@
+The strategy I used was to explore the boxes around the initial high-value box (21) and its adjacent boxes, based on the provided instruction that high-value points tend to appear close to each other. This aimed to maximize the points by leveraging the clustering pattern of high-value points.
+
+FINISH

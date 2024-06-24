@@ -1,0 +1,1 @@
+I used a strategy of exploring the boxes with coordinates adjacent to the initially revealed high-value boxes, and reselecting boxes that previously gave high values. This approach maximizes the potential of finding other high-value boxes nearby, based on the understanding that high-value points tend to cluster. FINISH

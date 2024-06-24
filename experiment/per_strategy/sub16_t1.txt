@@ -1,0 +1,3 @@
+My strategy was to explore the boxes adjacent to the initial high-value box (coordinate [14]) to continue finding high-value points, as the instructions indicated that high-value points tend to be clustered. 
+
+FINISH

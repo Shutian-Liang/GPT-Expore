@@ -1,0 +1,3 @@
+My strategy was to initially explore adjacent boxes to the randomly generated starting point, assuming clusters of high-value points. After identifying a high-value point around [20], I revisited it for potentially higher values. 
+
+FINISH

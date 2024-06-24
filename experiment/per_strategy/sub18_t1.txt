@@ -1,0 +1,1 @@
+I used a strategy of selecting adjacent boxes to explore, assuming high-value points would cluster together, as described in the study's instructions. This approach allowed me to maximize the potential for finding higher point values near the initial revealed point. FINISH

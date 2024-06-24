@@ -1,0 +1,3 @@
+The strategy I used to explore was centered around exploiting clusters of high-value points. Starting from the revealed box's coordinate, I explored neighboring boxes sequentially to maximize the probability of encountering more high-value points, based on the provided information that high-value points tend to cluster together. This approach helps in quickly gathering points in regions of the environment that seem to have higher values initially.
+
+FINISH

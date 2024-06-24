@@ -1,0 +1,1 @@
+I used the strategy of exploring boxes adjacent to the initially revealed high-value box ([27]). This approach is based on the understanding that high-value points tend to be clustered together in this environment. The goal was to find and maximize the sum of high-value points by choosing boxes near the initial high-value box. FINISH
